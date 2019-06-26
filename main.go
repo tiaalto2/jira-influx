@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/influxdata/influxdb/tree/master/client/v2"
+	"github.com/influxdata/influxdb-client-go"
 	"io/ioutil"
 	"net/http"
 	"net/url"
